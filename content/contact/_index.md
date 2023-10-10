@@ -1,6 +1,6 @@
 ---
 isPage: true
-title: Contact
+title: Contact weweweweew
 hero:
   surtitle: Surtitle
   title: Contact
@@ -49,3 +49,4 @@ blocks:
 
           * pellentesque
 ---
+w﻿eweweweweweweew
